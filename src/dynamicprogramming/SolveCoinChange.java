@@ -1,8 +1,5 @@
 package dynamicprogramming;
 
-import jdk.nashorn.internal.ir.IfNode;
-
-import java.util.*;
 
 /**
  * @author lei.X
