@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3e5c1d3-300c-4a17-a2a2-165ece535523" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question5_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +142,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/xulei2/Documents/tmpFile/Personal/leetcode-java-version/src/ProgrammerSkills/Question2_8.java&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;concur&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;getConnection&#9;PSI&#9;JAVA://java.sql.DriverManager#getConnection&#10;DriverMana&#9;PSI&#9;JAVA://java.sql.DriverManager&#10;forName&#9;PSI&#9;JAVA://java.lang.Class#forName&#10;ClassLoa&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -149,71 +154,71 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Question5_3">
+  <component name="RunManager" selected="Application.Question8_4">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Question4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question4_11" />
-      <module name="leetcode-java-version" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammerSkills.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question4_4" />
-      <module name="leetcode-java-version" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammerSkills.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question5_1" />
-      <module name="leetcode-java-version" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammerSkills.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question5_2" />
-      <module name="leetcode-java-version" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammerSkills.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Question5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question5_3" />
+      <module name="leetcode-java-version" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerSkills.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question8_1" />
+      <module name="leetcode-java-version" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerSkills.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question8_2" />
+      <module name="leetcode-java-version" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerSkills.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question8_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question8_3" />
+      <module name="leetcode-java-version" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerSkills.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question8_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammerSkills.Question8_4" />
       <module name="leetcode-java-version" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -257,20 +262,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Question4_4" />
-      <item itemvalue="Application.Question4_11" />
-      <item itemvalue="Application.Question5_1" />
-      <item itemvalue="Application.Question5_2" />
-      <item itemvalue="Application.Question5_3" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question5_3" />
-        <item itemvalue="Application.Question5_2" />
-        <item itemvalue="Application.Question5_1" />
-        <item itemvalue="Application.Question4_11" />
-        <item itemvalue="Application.Question4_4" />
+        <item itemvalue="Application.Question8_4" />
+        <item itemvalue="Application.Question8_3" />
+        <item itemvalue="Application.Question8_2" />
       </list>
     </recent_temporary>
   </component>
@@ -396,6 +392,11 @@
       <workItem from="1589721797248" duration="6291000" />
       <workItem from="1590281361280" duration="137000" />
       <workItem from="1590281516430" duration="4638000" />
+      <workItem from="1590421568895" duration="1964000" />
+      <workItem from="1590637788963" duration="1655000" />
+      <workItem from="1590724105150" duration="3845000" />
+      <workItem from="1592294296067" duration="1000" />
+      <workItem from="1592315535187" duration="13055000" />
     </task>
     <servers />
   </component>
@@ -415,300 +416,103 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="901" height="178" key="GridCell.Tab.0.bottom" timestamp="1590396097387">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590742397309">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="901" height="178" key="GridCell.Tab.0.bottom/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097387" />
+    <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1590742397309" />
+    <state width="1842" height="307" key="GridCell.Tab.0.bottom" timestamp="1592366129222">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590883734705" />
+    <state width="901" height="361" key="GridCell.Tab.0.bottom/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590638695619" />
+    <state width="1842" height="307" key="GridCell.Tab.0.bottom/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129222" />
     <state width="901" height="178" key="GridCell.Tab.0.bottom/35.23.1405.877@35.23.1405.877" timestamp="1590301057781" />
     <state width="901" height="226" key="GridCell.Tab.0.bottom/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004230" />
-    <state width="901" height="178" key="GridCell.Tab.0.center" timestamp="1590396097386">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1592363430484" />
+    <state width="1842" height="307" key="GridCell.Tab.0.center" timestamp="1592366129221">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
-    <state width="901" height="178" key="GridCell.Tab.0.center/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097386" />
+    <state width="1398" height="295" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590883734705" />
+    <state width="901" height="361" key="GridCell.Tab.0.center/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590638695615" />
+    <state width="1842" height="307" key="GridCell.Tab.0.center/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129221" />
     <state width="901" height="178" key="GridCell.Tab.0.center/35.23.1405.877@35.23.1405.877" timestamp="1590301057776" />
     <state width="901" height="226" key="GridCell.Tab.0.center/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004229" />
-    <state width="901" height="178" key="GridCell.Tab.0.left" timestamp="1590396097386">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1592363430481" />
+    <state width="1842" height="307" key="GridCell.Tab.0.left" timestamp="1592366129221">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
-    <state width="901" height="178" key="GridCell.Tab.0.left/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097386" />
+    <state width="1398" height="295" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590883734704" />
+    <state width="901" height="361" key="GridCell.Tab.0.left/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590638695614" />
+    <state width="1842" height="307" key="GridCell.Tab.0.left/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129221" />
     <state width="901" height="178" key="GridCell.Tab.0.left/35.23.1405.877@35.23.1405.877" timestamp="1590301057775" />
     <state width="901" height="226" key="GridCell.Tab.0.left/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004229" />
-    <state width="901" height="178" key="GridCell.Tab.0.right" timestamp="1590396097386">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1592363430479" />
+    <state width="1842" height="307" key="GridCell.Tab.0.right" timestamp="1592366129222">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
-    <state width="901" height="178" key="GridCell.Tab.0.right/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097386" />
+    <state width="1398" height="295" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590883734705" />
+    <state width="901" height="361" key="GridCell.Tab.0.right/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590638695618" />
+    <state width="1842" height="307" key="GridCell.Tab.0.right/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129222" />
     <state width="901" height="178" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1590301057781" />
     <state width="901" height="226" key="GridCell.Tab.0.right/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004230" />
-    <state width="901" height="178" key="GridCell.Tab.1.bottom" timestamp="1590396097388">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1592363430482" />
+    <state width="1842" height="307" key="GridCell.Tab.1.bottom" timestamp="1592366129390">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590883734707" />
     <state width="901" height="178" key="GridCell.Tab.1.bottom/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097388" />
+    <state width="1842" height="307" key="GridCell.Tab.1.bottom/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129390" />
     <state width="901" height="178" key="GridCell.Tab.1.bottom/35.23.1405.877@35.23.1405.877" timestamp="1590301057783" />
     <state width="901" height="226" key="GridCell.Tab.1.bottom/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004232" />
-    <state width="901" height="178" key="GridCell.Tab.1.center" timestamp="1590396097388">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.1.bottom/36.23.1404.877@36.23.1404.877" timestamp="1592363430705" />
+    <state width="1842" height="307" key="GridCell.Tab.1.center" timestamp="1592366129389">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590883734706" />
     <state width="901" height="178" key="GridCell.Tab.1.center/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097388" />
+    <state width="1842" height="307" key="GridCell.Tab.1.center/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129389" />
     <state width="901" height="178" key="GridCell.Tab.1.center/35.23.1405.877@35.23.1405.877" timestamp="1590301057782" />
     <state width="901" height="226" key="GridCell.Tab.1.center/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004231" />
-    <state width="901" height="178" key="GridCell.Tab.1.left" timestamp="1590396097387">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.1.center/36.23.1404.877@36.23.1404.877" timestamp="1592363430703" />
+    <state width="1842" height="307" key="GridCell.Tab.1.left" timestamp="1592366129387">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590883734706" />
     <state width="901" height="178" key="GridCell.Tab.1.left/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097387" />
+    <state width="1842" height="307" key="GridCell.Tab.1.left/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129387" />
     <state width="901" height="178" key="GridCell.Tab.1.left/35.23.1405.877@35.23.1405.877" timestamp="1590301057782" />
     <state width="901" height="226" key="GridCell.Tab.1.left/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004230" />
-    <state width="901" height="178" key="GridCell.Tab.1.right" timestamp="1590396097388">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state width="1362" height="307" key="GridCell.Tab.1.left/36.23.1404.877@36.23.1404.877" timestamp="1592363430702" />
+    <state width="1842" height="307" key="GridCell.Tab.1.right" timestamp="1592366129390">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590883734706" />
     <state width="901" height="178" key="GridCell.Tab.1.right/1920.290.1440.877/35.23.1885.1057@35.23.1885.1057" timestamp="1590396097388" />
+    <state width="1842" height="307" key="GridCell.Tab.1.right/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592366129390" />
     <state width="901" height="178" key="GridCell.Tab.1.right/35.23.1405.877@35.23.1405.877" timestamp="1590301057783" />
     <state width="901" height="226" key="GridCell.Tab.1.right/35.23.1885.1057@35.23.1885.1057" timestamp="1589727004231" />
+    <state width="1362" height="307" key="GridCell.Tab.1.right/36.23.1404.877@36.23.1404.877" timestamp="1592363430704" />
     <state x="443" y="100" key="SettingsEditor" timestamp="1590299288766">
       <screen x="35" y="23" width="1405" height="877" />
     </state>
     <state x="443" y="100" key="SettingsEditor/35.23.1405.877@35.23.1405.877" timestamp="1590299288766" />
-    <state x="1113" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1589727135638">
-      <screen x="35" y="23" width="1885" height="1057" />
+    <state x="1114" y="258" width="877" height="677" key="search.everywhere.popup" timestamp="1592323775542">
+      <screen x="36" y="23" width="1884" height="1057" />
     </state>
+    <state x="824" y="200" width="670" height="576" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590741436695" />
+    <state x="1114" y="258" width="877" height="677" key="search.everywhere.popup/1920.290.1440.877/36.23.1884.1057@36.23.1884.1057" timestamp="1592323775542" />
     <state x="1113" y="258" width="670" height="676" key="search.everywhere.popup/35.23.1885.1057@35.23.1885.1057" timestamp="1589727135638" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/HouseRobber198.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/HouseRobber213.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/SubSets90.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/CombinationSum39.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="repeat == 2" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/CombinationSum40.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/tree105.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/TreeWithInAndPostOrder.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/LongestPS5.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/ShortestPalindrome214.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/Tree129.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/NextPermutation31.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/letterCombinations17.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/PermutationsII47.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/maxCoin312.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/Generate118.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/MajorityElement229.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/CanJump55.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/maxProfit122.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/MaxProfit123.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/MaxProfit123.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/MaxArea11.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/swordOfOffer/AllSort.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Permutation46.java</url>
+          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question8_2.java</url>
           <line>20</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/NQueue.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/EditDistanceProblem.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamicprogramming/EditDistanceProblem.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTrackAndRecursive/MaxProfit121.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/Test.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question1_5.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question1_6.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question1_8.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="172" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question2_5.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="182" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question2_6.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="187" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question4_1.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="190" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question4_2.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="191" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/util/ConstuctTreeWithArray.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="193" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question4_4.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question4_4.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="200" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question4_11.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="201" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question5_2.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ProgrammerSkills/Question5_3.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="203" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="listNodeArrayList" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>repeat == 2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>repeat == 2 &amp;&amp; i==6</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>repeat == 2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
