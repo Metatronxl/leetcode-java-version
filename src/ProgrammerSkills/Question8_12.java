@@ -6,7 +6,7 @@ import java.util.Date;
  * @author lei.X
  * @date 2020/3/14
  */
-public class NQueue {
+public class Question8_12 {
 
 
     private static final short  N =8;
