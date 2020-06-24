@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3e5c1d3-300c-4a17-a2a2-165ece535523" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammerSkills/Question8_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/NQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/NQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +393,7 @@
       <workItem from="1590724105150" duration="3845000" />
       <workItem from="1592294296067" duration="1000" />
       <workItem from="1592315535187" duration="31845000" />
-      <workItem from="1592825943191" duration="8608000" />
+      <workItem from="1592825943191" duration="9426000" />
     </task>
     <servers />
   </component>
