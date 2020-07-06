@@ -1,0 +1,14 @@
+package ProgrammerSkills;
+
+public class Question16_5 {
+
+    public int trailingZeroes(int n) {
+
+        int count=0;
+        while (n > 5){
+            n /=5;
+            count +=n;
+        }
+        return count;
+    }
+}
