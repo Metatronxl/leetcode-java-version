@@ -1,80 +1,87 @@
 package test;
 
+import java.util.HashMap;
+
 /**
  * @author lei.X
  * @date 2020/2/3
  */
-public class MyTest {
+public class MyTest<K,V> {
 
 
-    public static void main(String[] args) {
+    class Entry<K,V>{
 
-//        int[] arr = new int[]{16,7,3,20,17,8};
-//        heapSort(arr);
-
-        method(null);
-
+        public Entry pre;
+        public Entry next;
+        public K key;
+        public V value;
     }
 
+    private final int MAX_CACHE_SIZE;
+    private Entry first;
+    private Entry last;
+    private HashMap<K,Entry<K,V>> hashMap;
 
-    public static void method(String param) {
-
-        switch (param) { // 肯定不是进入这里
-
-         case "sth":
-
-            System.out.println("it's sth");
-            break; // 也不是进入这里
-         case "null":
-             System.out.println("it's null");
-             break; // 也不是进入这里
-         default:
-             System.out.println("default");
-
-        }
-
+    public MyTest(int size){
+        MAX_CACHE_SIZE = size;
+        hashMap = new HashMap<>();
     }
 
-    private static void heapSort(int[] arr) {
-
-        for (int i=(arr.length-1)/2;i>=0;i--){
-            adjustHeap(arr,i,arr.length);
-        }
-
-        for (int i=arr.length-1;i>0;i--){
-
-            int temp = arr[i];
-            arr[i] = arr[0];
-            arr[0] = temp;
-
-            adjustHeap(arr,0,i);
-        }
-
-    }
-
-    private static void adjustHeap(int[] arr, int parent, int length) {
-
-        int temp = arr[parent];
-        int lchild = 2*parent+1;
-
-        while (lchild < length){
-            int rchild = lchild+1;
-            if (rchild< length &&  arr[lchild] < arr[rchild]){
-                lchild++;
+    public void put(K key, V value){
+        Entry entry = getEntry(key);
+        if (entry == null){
+            entry = new Entry();
+            if (hashMap.size() == MAX_CACHE_SIZE){
+                removeFromLast();
+                hashMap.remove(last.key);
             }
-
-            if (temp > arr[lchild]){
-                break;
-            }
-            arr[parent] = arr[lchild];
-
-            parent = lchild;
-            lchild = 2*lchild+1;
         }
-        arr[parent] = temp;
+        entry.key = key;
+        entry.value = value;
+        addToFirst(entry);
+        hashMap.put(key,entry);
 
     }
 
+    public V get(K key){
+        Entry entry = getEntry(key);
+        if (entry == null) return null;
+        addToFirst(entry);
+        return (V)entry.value;
+    }
+
+
+    private void addToFirst(Entry entry){
+        if (entry == first) return;
+        if (first == null || last == null){
+            first = last = entry;
+            return;
+        }
+        if (entry.pre != null){
+            entry.pre.next = entry.next;
+        }
+        if (entry.next !=null){
+            entry.next.pre = entry.pre;
+        }
+        entry.next = first;
+        first.pre = entry;
+        first = entry;
+        entry.pre = null;
+    }
+
+    private void removeFromLast(){
+
+        if (last !=null){
+            last = last.pre;
+            if (last == null) first = null;
+            else last.next = null;
+        }
+
+    }
+
+    public Entry getEntry(K key){
+         return hashMap.get(key);
+    }
 
 
 }
